@@ -5,3 +5,7 @@ Renders:
 ### ![PCB Back](Assets/coloredbackrender.png)
 ### ![PCB Front](Assets/coloredfrontrender.png)
 
+## Features (really standard stuff for a devboard)
+* USB-C for easy connections
+* A push button
+* 12MHz Crystal
