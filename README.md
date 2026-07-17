@@ -9,3 +9,6 @@ Renders:
 * USB-C for easy connections
 * A push button
 * 12MHz Crystal
+
+## Production
+Everything in the 'Production' folder can be used to have this PCB manufactured by JLCPCB.
